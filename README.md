@@ -41,7 +41,7 @@ console.log(facilitator-package.tekrarla("tekrar", 5))
 
 | Fonksiyon | Açıklaması |
 |-----------|------------|
-| kısalt | [Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur. ]|
+| kısalt | [Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/k%C4%B1salt.md) |
 | matematik | Yazılan işlemin sonucunu verir. |
 | büyült | Yazılan yazının harflerini büyütür. ilki ve tamamı olmak üzere fonksiyonları bulunur. |
 | küçült | Yazılan yazının harflerini büyütür. Tüm ve ilk fonksiyonları bulunur. |
