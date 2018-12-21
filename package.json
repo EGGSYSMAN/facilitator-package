@@ -1,0 +1,27 @@
+{
+  "name": "facilitator-package",
+  "version": "0.1.10",
+  "description": "İşinizi kolaylaştıran bir NPM modülü.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Ceyhun Y.",
+  "keywords": [
+    "discord.js",
+    "facilitator-functions",
+    "functions",
+    "facilitator-package"
+  ],
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SepulturA0/facilitator-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SepulturA0/facilitator-package/issues"
+  },
+  "homepage": "https://github.com/SepulturA0/facilitator-package#readme"
+}
