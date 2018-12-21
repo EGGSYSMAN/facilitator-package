@@ -1,8 +1,8 @@
 # Örnek Kullanım
 
 ```js
-const up = require('useful-package')
+const facilitator-packag = require('facilitator-packag')
 
-console.log(up.rastgele("pozitif", 10))
+console.log(facilitator-package.rastgele("pozitif", 10))
 //Bu kod "pozitif" ve "10"u geçmeyecek bir şekilde rastgele sayı gönderir.
 ```
