@@ -11,7 +11,7 @@ console.log(facilitator-package.kısalt("baştan", 4, "deneme"))
 console.log(facilitator-package.kısalt("sondan", 4, "deneme"))
 //Bu kod "sondan" silecek bir şekilde "deneme" yazısının 4 harfini siler.
 
-console.log(facilitator-package.matematik('4+4'))
+console.log(facilitator-package.hesapla('4+4'))
 //Bu kod 4+4 işleminin sonucunu verir.
 
 console.log(facilitator-package.büyült("ilki", "deneme"))
@@ -42,7 +42,7 @@ console.log(facilitator-package.tekrar("tekrar", 5))
 | Fonksiyon | Açıklaması |
 |-----------|------------|
 | kısalt | [Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/k%C4%B1salt.md) |
-| matematik | [Yazılan işlemin sonucunu verir.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/matematik.md) |
+| hesapla | [Yazılan işlemin sonucunu verir.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/matematik.md) |
 | büyült | [Yazılan yazının harflerini büyütür. ilki ve tamamı olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/b%C3%BCy%C3%BClt.md) |
 | küçült | [Yazılan yazının harflerini büyütür. ilki ve tamamı olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/k%C3%BC%C3%A7%C3%BClt.md) |
 | rastgele | [Negatif veya pozitif rastgele sayı atar. Yazılan sayıyı geçmeyecek şekilde.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/rastgele.md) |
