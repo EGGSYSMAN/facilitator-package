@@ -1,12 +1,13 @@
 {
   "name": "facilitator-package",
-  "version": "0.1.10",
+  "version": "0.1.16",
   "description": "İşinizi kolaylaştıran bir NPM modülü.",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
-  "author": "Ceyhun Y.",
+  "author": "SepulturA",
+  "license": "ISC",
   "keywords": [
     "discord.js",
     "facilitator-functions",
