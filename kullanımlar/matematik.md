@@ -1,8 +1,8 @@
 # Örnek Kullanım
 
 ```js
-const up = require('useful-package')
+const up = require('facilitator-package')
 
-console.log(up.matematik('2+2'))
-//Bu kod 2+2 işleminin sonucunu verir.
+console.log(up.matematik('5+5'))
+//Bu kod 5+5 işleminin sonucunu verir.
 ```
