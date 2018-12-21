@@ -1,11 +1,11 @@
 # Örnek Kullanım
 
 ```js
-const up = require('useful-package')
+const facilitator-package = require('facilitator-package')
 
-console.log(up.büyült("ilk", "test"))
-//Bu kod "test" yazısının ilk harfini otomatik olarak büyütür.
+console.log(facilitator-package.büyült("ilki", "deneme"))
+//Bu kod "deneme" yazısının ilk harfini otomatik olarak büyütür.
 
-console.log(up.büyült("tüm", "test"))
-//Bu kod "test" yazısının tüm harflerini otomatik olarak büyütür.
+console.log(facilitator-package.büyült("tamamı", "deneme"))
+//Bu kod "deneme" yazısının tamamını otomatik olarak büyütür.
 ```
