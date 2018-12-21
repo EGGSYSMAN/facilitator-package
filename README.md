@@ -37,11 +37,11 @@ console.log(facilitator-package.tekrarla("tekrar", 5))
 
 ```
 
-# Kullanıma Açık Fonksiyonlar
+# Aktif Fonksiyonlar
 
 | Fonksiyon | Açıklaması |
 |-----------|------------|
-| kısalt | Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur. |
+| kısalt | [Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur. ]|
 | matematik | Yazılan işlemin sonucunu verir. |
 | büyült | Yazılan yazının harflerini büyütür. ilki ve tamamı olmak üzere fonksiyonları bulunur. |
 | küçült | Yazılan yazının harflerini büyütür. Tüm ve ilk fonksiyonları bulunur. |
