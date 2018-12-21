@@ -1,8 +1,8 @@
 # Örnek Kullanım
 
 ```js
-const facilitator-package = require('facilitator-package')
+const facilitator = require('facilitator-package')
 
-console.log(facilitator-package.boşluk("deneme", 10))
+console.log(facilitator.boşluk("deneme", 10))
 //Bu kod "deneme" yazısının başından 10 harflik bir boşluk bırakır.
 ```
