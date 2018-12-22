@@ -6,6 +6,6 @@ const facilitator = require('facilitator-package')
 console.log(facilitator.küçült("ilki", "deneme"))
 //Bu kod "deneme" yazısının ilk harfini otomatik olarak küçültür.
 
-console.log(facilitator.küçült("tüm", "deneme"))
+console.log(facilitator.küçült("tamamı", "deneme"))
 //Bu kod "deneme" yazısının tamamını otomatik olarak küçültür.
 ```
