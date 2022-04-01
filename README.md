@@ -41,10 +41,10 @@ console.log(facilitator.tekrar("tekrar", 5))
 
 | Fonksiyon | Açıklaması |
 |-----------|------------|
-| kısalt | [Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/k%C4%B1salt.md) |
-| hesapla | [Yazılan işlemin sonucunu verir.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/hesapla.md) |
-| büyült | [Yazılan yazının harflerini büyütür. ilki ve tamamı olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/b%C3%BCy%C3%BClt.md) |
-| küçült | [Yazılan yazının harflerini küçültür. ilki ve tamamı olmak üzere fonksiyonları bulunur.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/k%C3%BC%C3%A7%C3%BClt.md) |
-| rastgele | [Negatif veya pozitif rastgele sayı atar. Yazılan sayıyı geçmeyecek şekilde.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/rastgele.md) |
-| boşluk | [Yazılan yazının başından yazılan sayıda boşluk bırakır.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/bo%C5%9Fluk.md) |
-| tekrar | [Yazılan yazıyı yazılan sayıda tekrarlar.](https://github.com/SepulturA0/facilitator-package/blob/master/kullan%C4%B1mlar/tekrar.md) |
+| kısalt | [Yazılan yazıyı, yazılan uzunlukta kısaltır. baştan ve sondan kısaltma olmak üzere fonksiyonları bulunur.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/k%C4%B1salt.md) |
+| hesapla | [Yazılan işlemin sonucunu verir.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/hesapla.md) |
+| büyült | [Yazılan yazının harflerini büyütür. ilki ve tamamı olmak üzere fonksiyonları bulunur.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/b%C3%BCy%C3%BClt.md) |
+| küçült | [Yazılan yazının harflerini küçültür. ilki ve tamamı olmak üzere fonksiyonları bulunur.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/k%C3%BC%C3%A7%C3%BClt.md) |
+| rastgele | [Negatif veya pozitif rastgele sayı atar. Yazılan sayıyı geçmeyecek şekilde.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/rastgele.md) |
+| boşluk | [Yazılan yazının başından yazılan sayıda boşluk bırakır.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/bo%C5%9Fluk.md) |
+| tekrar | [Yazılan yazıyı yazılan sayıda tekrarlar.](https://github.com/EGGSYSMAN/facilitator-package/blob/master/kullan%C4%B1mlar/tekrar.md) |
