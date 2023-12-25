@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
-  "author": "SepulturA",
+  "author": "EGGSYSMAN",
   "license": "ISC",
   "keywords": [
     "discord.js",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SepulturA0/facilitator-package.git"
+    "url": "git+https://github.com/EGGSYSMAN/facilitator-package.git"
   },
   "bugs": {
-    "url": "https://github.com/SepulturA0/facilitator-package/issues"
+    "url": "https://github.com/EGGSYSMAN/facilitator-package/issues"
   },
-  "homepage": "https://github.com/SepulturA0/facilitator-package#readme"
+  "homepage": "https://github.com/EGGSYSMAN/facilitator-package#readme"
 }
